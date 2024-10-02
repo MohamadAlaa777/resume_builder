@@ -1,1 +1,6 @@
-# resume_builder
+# resume_builder![Simulator Screen Shot - iPhone 14 Pro Max - 2024-10-02 at 23 39 38](https://github.com/user-attachments/assets/eceb374f-b57e-4cde-949a-979f778e39b6)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2024-10-02 at 23 42 28](https://github.com/user-attachments/assets/6edf98f6-a32b-40e1-9cc0-677ab2fac1ff)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2024-10-02 at 23 43 09](https://github.com/user-attachments/assets/318d8795-7914-4373-b7bd-979daa7bf9d3)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2024-10-02 at 23 43 36](https://github.com/user-attachments/assets/cd6889ab-9f09-41bf-b978-c9f9f797951d)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2024-10-02 at 23 44 09](https://github.com/user-attachments/assets/b7c10008-034a-4046-8f81-70d3c855d0d1)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2024-10-02 at 23 44 21](https://github.com/user-attachments/assets/537269f5-73fe-4480-bd8b-d669b88a2e9c)
